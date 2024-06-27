@@ -1,4 +1,4 @@
-# Blog Title :link: https://SigmaAdrich.github.io 
+# sigma blog :link: https://SigmaAdrich.github.io 
 ### :page_facing_up: [1](https://SigmaAdrich.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 94 
